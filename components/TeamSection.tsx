@@ -3,7 +3,7 @@ export default function TeamSection() {
     {
       name: "Lucas Alaniz Pintos PhD",
       role: "CEO & Research Director",
-      img: "https://via.placeholder.com/150",
+      img: "Lucas.jpeg",
     },
   ];
 
