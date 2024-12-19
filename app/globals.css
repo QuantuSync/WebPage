@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Puedes añadir estilos globales adicionales aquí si lo deseas */
+body {
+  overscroll-behavior: none;
+}
